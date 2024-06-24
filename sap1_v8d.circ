@@ -521,7 +521,7 @@
       <a name="addrWidth" val="4"/>
       <a name="appearance" val="classic"/>
       <a name="contents">addr/data: 4 8
-1f 2e 2d 3c e0 f0 6*0 1
+f 1e 1d 2c e0 f0 6*0 1
 4 3 2
 </a>
     </comp>
@@ -568,7 +568,7 @@ c00 102 200 440 180 0 440 110
       <a name="addrWidth" val="4"/>
       <a name="appearance" val="classic"/>
       <a name="contents">addr/data: 4 4
-0 3 6 9 10*0 c
+3 6 9 11*0 c
 </a>
       <a name="dataWidth" val="4"/>
       <a name="label" val="CS_mod"/>
